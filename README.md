@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/ahmed-abdelregal/ahmed-abdelregal/blob/main/images/hello.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/ahmed-abdelregal/ahmed-abdelregal/blob/main/images/dev-working.gif" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
 
@@ -37,6 +37,6 @@
 
 ### ✉️ Contact Me
 - 📧 Email: **youremail@example.com**  
-- 💼 LinkedIn: [Ahmed Abdelregal](https://www.linkedin.com/in/your-profile)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
 - 🐙 GitHub: [ahmed-abdelregal](https://github.com/ahmed-abdelregal)  
 
