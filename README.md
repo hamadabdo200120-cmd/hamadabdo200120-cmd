@@ -37,6 +37,6 @@
 
 ### ✉️ Contact Me
 - 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [Ahmed Abd Elregal](https://www.linkedin.com/in/ahmed-abd-elregal-72114a360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 LinkedIn: [Ahmed Abd Elregal](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B5ipSR6yFSTSQkK8Xyssn4g%3D%3D)  
 - 🐙 GitHub: [ahmed-abdelregal](https://github.com/ahmed-abdelregal)  
 
